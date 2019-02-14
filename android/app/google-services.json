@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "761039650130",
+    "firebase_url": "https://notiworkshop.firebaseio.com",
+    "project_id": "notiworkshop",
+    "storage_bucket": "notiworkshop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761039650130:android:83cbce36385bf15e",
+        "android_client_info": {
+          "package_name": "com.siwiithi.notiworkshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761039650130-mbqpi7669n6k3pb59ihb4e2r6jq0gkvp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDMB3R8iahod0OfoIahotsrOAO0ITK7vU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
